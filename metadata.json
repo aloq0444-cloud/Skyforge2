@@ -1,0 +1,6 @@
+{
+  "name": "Skyforge Armory Studio — Historical Sword Visual Concept Art",
+  "description": "Visual concept art, realistic renders, and stylized illustrations for Skyforge historical sword boutique (16th–19th century).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
